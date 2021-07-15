@@ -20,6 +20,7 @@ Senior at Brigham Young University Idaho pursuing Bachelor's of Science in Data 
 __Brigham Young University Idaho__, Rexburg, ID
 
 - 3.79 GPA
+- Data Science Major <!-- Just to Clarify -->
 - Minor in Statistics and Business Analytics
 - Member of the Data Science Society
 
@@ -47,6 +48,9 @@ __WesTech Automating Report__
 
 `2016-2018`
 __Official Representative__, ASPERSUD
+
+- I would add a little bit of information or context here.
+- I'm not familiar with this organization.
 
 
 `2017-2018`
